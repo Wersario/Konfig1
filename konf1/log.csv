@@ -1,15 +1,1 @@
-timestamp,user,command
-2024-12-10 16:28:25,user,ls
-2024-12-10 16:28:27,user,ls -l
-2024-12-10 16:28:28,user,ls -a
-2024-12-10 16:28:36,user,cd dir1
-2024-12-10 16:28:43,user,cd ..
-2024-12-10 16:28:48,user,whoami
-2024-12-10 16:28:58,user,cp dir3 dir1/dsds
-2024-12-10 16:29:06,user,dir1 dir2/dir_copy
-2024-12-10 16:29:19,user,cp dir1 dir2/dir_copy
-2024-12-10 16:29:20,user,ls
-2024-12-10 16:29:24,user,cd dir2
-2024-12-10 16:29:26,user,ls
-2024-12-10 16:29:30,user,cd dir_copy
-2024-12-10 16:29:42,user,cd ..
+
