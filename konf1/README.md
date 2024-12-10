@@ -73,4 +73,4 @@ python -m unittest tests.py
 
 ## Результат работы программы
 
-![image](https://github.com/user-attachments/assets/b42256f1-b7ba-4160-b678-2db1c8cc0b00)
+![image](https://github.com/user-attachments/assets/4371fc40-7502-44e0-af9a-e15689e3ec4e)
