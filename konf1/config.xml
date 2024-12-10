@@ -1,0 +1,6 @@
+<config>
+    <username>user</username>
+    <hostname>myhost</hostname>
+    <fs_zip>fs.zip</fs_zip>
+    <log_file>log.csv</log_file>
+</config>
